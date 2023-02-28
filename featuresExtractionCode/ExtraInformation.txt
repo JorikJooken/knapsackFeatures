@@ -1,0 +1,4 @@
+This folder contains the code to compute the features from the paper "Features for the 0-1 knapsack problem based on inclusionwise maximal solutions".
+There are three programs (calcFeatures1.cpp, calcFeatures2.cpp and bouknap.c) and the source code of each program contains an instruction on the first line to compile the program.
+The programs "calcFeatures1.cpp" and "calcFeatures2.cpp" expect their input in the same format (an example of such a problem instance is given in the file "problemInstanceFormatForCalcFeatures1And2.in"
+The program "bouknap.c" expects its input in a different format (an example of such a problem instance is given in the file "problemInstanceFormatForBouknapExecutable.in)
